@@ -8,7 +8,7 @@ int main() {
     double radioEstudiante;
 
     cout << "=====================================================" << endl;
-    cout << " CALCULADORA DE AREA MODULAR - ESTUDIANTE: Federico Mattia" << endl;
+    cout << " CALCULADORA DE AREA MODULAR - ESTUDIANTE: Maximo Orue" << endl;
     cout << "=====================================================" << endl;
     cout << "=> Ingrese el radio del circulo/diana (en cm): ";
     cin >> radioEstudiante;

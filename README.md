@@ -1,7 +1,7 @@
 # calculoarea
 
 Act3
-CALCULOAREA
+calculoarea
 
 Proyecto escolar de Laboratorio de Programación para aplicar el enfoque modular y el diseño Top-Down en C++.
 
